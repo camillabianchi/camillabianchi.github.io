@@ -40,10 +40,11 @@ permalink: /research/
   <div class="title">Report on active labour market policies and in-work poverty in Lombardy, Italy (Goal 4 and Goal 8)</div>
   <div class="meta">with L. Cappellari, E. Cottini and M. Ovidi · Polis Lombardia, 2021</div>
 </div> -->
-
+<!--
 ## Conference and Seminars
 
 - **2026:** 4th Milan PhD Economics Workshop (Bocconi); 10th International PhD Meeting in Economics (Thessaloniki); 5th Rome PhD in Economics Conference (Sapienza); Festival Internazionale dell’Economia, Turin (invited speaker, *Riforme del Welfare per Tornare a Crescere*); University of Naples Parthenope (scheduled)
 
 
 - **2025:** 3rd Milan PhD Economics Workshop (Cattolica); BI Norwegian Business School PhD Economics Workshop
+-->
