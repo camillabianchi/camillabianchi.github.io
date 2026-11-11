@@ -20,7 +20,7 @@ permalink: /research/
 
 <div class="paper">
   <div class="title">Where Did Wage Growth Go? Firms, Surplus, and its Division over Fifty Years</div>
-  <div class="meta">with <a href="https://sites.google.com/view/mariadepaola">Maria De Paola</a> and <a href="https://sites.google.com/view/fabianoschivardi/home">Fabiano Schivardi</a> · VisitINPS program</div>
+  <div class="meta">with <a href="https://sites.google.com/view/mariadepaola">M. De Paola</a> and <a href="https://sites.google.com/view/fabianoschivardi/home">F. Schivardi</a> · VisitINPS program</div>
 </div>
 
 <div class="paper">
@@ -32,7 +32,7 @@ permalink: /research/
 
 <div class="paper">
   <div class="title">L’evoluzione dei salari nel settore privato negli ultimi 50 anni</div>
-  <div class="meta">with <a href="https://sites.google.com/view/mariadepaola">Maria De Paola</a> and <a href="https://sites.google.com/view/fabianoschivardi/home">Fabiano Schivardi</a> · <em>XXV Rapporto Annuale INPS</em>, 2026, Box 1.2, pp. 111–118</div>
+  <div class="meta">with <a href="https://sites.google.com/view/mariadepaola">M. De Paola</a> and <a href="https://sites.google.com/view/fabianoschivardi/home">F. Schivardi</a> · <em>XXV Rapporto Annuale INPS</em>, 2026, Box 1.2, pp. 111–118</div>
 </div>
 
 <!-- hide this one
