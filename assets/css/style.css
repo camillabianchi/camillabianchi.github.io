@@ -117,9 +117,9 @@ footer {
   .profile img { width: 160px; }
 }
 
-/* Name and section titles in Blue 3 */
+/* Name and section titles in Blue 6 */
 .site-title,
 h1,
 h2 {
-  color: #3094FF;
+  color: var(--accent);
 }
