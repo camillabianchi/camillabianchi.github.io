@@ -8,12 +8,11 @@ permalink: /teaching/
 
 ## Teaching Assistant
 
-LUISS Guido Carli University, undergraduate level.
-
-- **Development Economics**, for Prof. G. Testa — Fall 2026
-- **Financial Markets**, for Prof. D. Damast — Spring 2026
-- **Economics for Cultural Industries**, for Prof. G. Gianfreda — Spring 2026
-- **Public Economics**, for Prof. G. Gianfreda — Fall 2024
+**LUISS Guido Carli University**, undergraduate level.
+- Development Economics, for Prof. G. Testa — Fall 2026
+- Financial Markets, for Prof. D. Damast — Spring 2026
+- Economics for Cultural Industries, for Prof. G. Gianfreda — Spring 2026
+- Public Economics, for Prof. G. Gianfreda — Fall 2024
 
 <!-- Optional: to share teaching materials (problem sets, slides), add a section like this:
 ## Teaching Materials
