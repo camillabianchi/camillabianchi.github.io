@@ -8,7 +8,7 @@ permalink: /teaching/
 
 ## Teaching Assistant
 
-All courses at LUISS Guido Carli University, undergraduate level.
+LUISS Guido Carli University, undergraduate level.
 
 - **Development Economics**, for Prof. G. Testa — Fall 2026
 - **Financial Markets**, for Prof. D. Damast — Spring 2026
