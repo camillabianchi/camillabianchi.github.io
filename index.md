@@ -5,8 +5,14 @@ permalink: /
 ---
 
 <div class="profile">
-  <!-- Profile photo: images/profile.jpg (delete the line below to remove it) -->
-  <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Camilla Bianchi">
+  <div class="photo-col">
+    <!-- Profile photo: images/profile.jpg (delete the line below to remove it) -->
+    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Camilla Bianchi">
+    <p class="icons">
+      <a href="https://www.linkedin.com/in/camilla-bianchi-974167131/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://github.com/camillabianchi" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+    </p>
+  </div>
   <div>
     <h1>Camilla Bianchi</h1>
     <p>Welcome to my website!</p>
@@ -34,14 +40,8 @@ permalink: /
     <p>
       Here is a link to my <a href="{{ '/files/cv_CamillaBianchi.pdf' | relative_url }}">CV</a>.
     </p>
-    <p class="contact">
-      Department of Economics and Finance, LUISS University<br>
-      Via Lisbona 7, 00198 Rome, Italy<br>
-      <a href="mailto:cbianchi@luiss.it">cbianchi@luiss.it</a>
-    </p>
-    <p class="contact icons">
-      <a href="https://www.linkedin.com/in/camilla-bianchi-974167131/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-      <a href="https://github.com/camillabianchi" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+    <p>
+      Email: <a href="mailto:cbianchi@luiss.it">cbianchi@luiss.it</a>
     </p>
   </div>
 </div>
