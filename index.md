@@ -17,10 +17,11 @@ permalink: /
       <strong>public economics</strong>.
     </p>
     <p>
+      <!--
       My current work studies how overlapping childcare and eldercare responsibilities
       affect labor market outcomes, and how wages, firm surplus and its division between
       workers and firms have evolved in Italy over the last fifty years, using administrative
-      data.
+      data. -->
     </p>
     <p>
       Before the PhD, I gained policy experience at the European Central Bank, and at
@@ -33,7 +34,8 @@ permalink: /
     </p>
     <p class="contact">
       <a href="{{ '/files/cv_CamillaBianchi.pdf' | relative_url }}">CV</a> ·
-      <a href="https://github.com/camillabianchi">GitHub</a>
+      <a href="https://github.com/camillabianchi">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/camilla-bianchi-974167131/">LinkedIn</a>
     </p>
   </div>
 </div>
