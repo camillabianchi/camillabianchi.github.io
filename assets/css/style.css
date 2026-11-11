@@ -116,3 +116,10 @@ footer {
   .profile { flex-direction: column; }
   .profile img { width: 160px; }
 }
+
+/* Name and section titles in Blue 3 */
+.site-title,
+h1,
+h2 {
+  color: #3094FF;
+}
