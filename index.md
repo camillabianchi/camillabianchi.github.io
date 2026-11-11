@@ -13,7 +13,7 @@ permalink: /
     <p>
       I am a PhD candidate in Economics at
       <a href="https://www.luiss.edu/">LUISS Guido Carli University</a> in Rome.
-    <\p>
+    </p>
     <p>
       My research interests are in applied microeconomics, mainly in
       labor economics, family economics and
