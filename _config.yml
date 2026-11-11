@@ -16,8 +16,6 @@ nav:
     url: /research/
   - title: Teaching
     url: /teaching/
-  - title: CV
-    url: /files/cv_CamillaBianchi.pdf
 
 markdown: kramdown
 exclude:
