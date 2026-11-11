@@ -6,10 +6,9 @@ I'm a PhD candidate in Economics at LUISS Guido Carli University in Rome, workin
 
 ## What's on the site
 
-- **Home**: a short bio, my research interests and contact details
+- **Home**: a short bio, my research interests, cv and contact details
 - **Research**: my work in progress, policy writing, and the conferences and seminars where I've presented
 - **Teaching**: the courses I've been a teaching assistant for at LUISS
-- **CV**: a PDF of my CV
 
 ## How it's built
 
