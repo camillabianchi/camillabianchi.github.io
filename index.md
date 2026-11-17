@@ -41,7 +41,7 @@ permalink: /
       Here is a link to my <a href="{{ '/files/cv_CamillaBianchi.pdf' | relative_url }}">CV</a>.
     </p>
     <p>
-      Email: <a href="mailto:cbianchi@luiss.it">cbianchi@luiss.it</a>
+      Email: <a href="mailto:cbianchi[at]luiss[dot]it">cbianchi[at]luiss[dot]it</a>
     </p>
   </div>
 </div>
